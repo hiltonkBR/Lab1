@@ -13,7 +13,7 @@ Instruções:
         Execulte o programa digitando no terminal "./Questao1" seguido dos parametros, sendo o primeiro paramentro o nome da forma que deseja calcular seguido das dimenssões, como segue:
               ./Questao1 triangulo lado
               ./Questao1 retangulo base altura
-	            ./Questao1 quadrado lado
+	      ./Questao1 quadrado lado
               ./Questao1 circulo raio
               ./Questao1 piramide LadoDaBase ArestaDiagonal
               ./Questao1 cubo lado
