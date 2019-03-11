@@ -11,14 +11,14 @@ using namespace std;
 void instrucoes()
 {
 	cout << "FORMAS GENERICAS:" << endl;
-	cout << "# ./main.exe triangulo base altura" << endl;
-	cout << "# ./main.exe retangulo base altura" << endl;
-	cout << "# ./main.exe quadrado lado" << endl;
-	cout << "# ./main.exe circulo raio" << endl;
-	cout << "# ./main.exe piramide LadoDaBase ArestaDiagonal" << endl;
-	cout << "# ./main.exe cubo lado" << endl;
-	cout << "# ./main.exe paralelepipedo lado1 lado2 lado3" << endl;
-	cout << "# ./main.exe esfera raio" << endl;
+	cout << "# ./Questao1 triangulo base altura" << endl;
+	cout << "# ./Questao1 retangulo base altura" << endl;
+	cout << "# ./Questao1 quadrado lado" << endl;
+	cout << "# ./Questao1 circulo raio" << endl;
+	cout << "# ./Questao1 piramide LadoDaBase ArestaDiagonal" << endl;
+	cout << "# ./Questao1 cubo lado" << endl;
+	cout << "# ./Questao1 paralelepipedo lado1 lado2 lado3" << endl;
+	cout << "# ./Questao1 esfera raio" << endl;
 
 }
 
