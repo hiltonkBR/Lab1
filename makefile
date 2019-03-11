@@ -14,7 +14,7 @@ main.o :
 	$(CC) $(CPPFLAGS) -c $(LIB)/main.cpp -o $(LIB)/main.o
 
 areas.o :
-	$(CC) $(CPPFLAGS) -c $(LIB)/areas.cpp -o $(LIB)/main.o
+	$(CC) $(CPPFLAGS) -c $(LIB)/areas.cpp -o $(LIB)/areas.o
 
 perimetros.o :
 	$(CC) $(CPPFLAGS) -c $(LIB)/perimetros.cpp -o $(LIB)/perimetros.o
